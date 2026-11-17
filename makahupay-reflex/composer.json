@@ -1,0 +1,12 @@
+{
+  "name": "makahupay/reflex-massage-management",
+  "description": "Makahupay Reflex & Massage business management system",
+  "type": "project",
+  "require": {
+    "php": ">=8.1",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*",
+    "ext-mbstring": "*",
+    "ext-fileinfo": "*"
+  }
+}
